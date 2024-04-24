@@ -23,3 +23,27 @@ Here is the part where I include my lectures
 *   List item
 *   List item
 *   List item
+
+
+---
+
+# **Activities**
+Here is the part where I include my lectures
+
+
+*   List item
+*   List item
+*   List item
+*   List item
+
+
+---
+
+# **Others**
+Here is the part where I include my lectures
+
+
+*   List item
+*   List item
+*   List item
+*   List item
